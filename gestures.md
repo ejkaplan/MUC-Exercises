@@ -3,9 +3,9 @@
 ## Recognition Warm-up
 In this exercise, you will use hand gestures to transmit a binary string. For this exercise, you will use clockwise and anticlockwise circles to represent the bits 0 and 1 respectively, using a closed fist as a separator. For example, in the gif below, the participant is gesturing a clockwise circle, then an anticlockwise circle, then a clockwise circle indicating the binary string "010".
 
-![Demonstration of the binary string 010](images/binary_gesture_example.gif)
+<img src="images/binary_gesture_example.gif" width="300">
 
-![Diagram of the binary gestures](images/binary_gestures.png | width=100)
+<img src="images/binary_gestures.png" width="300">
 
 Please follow these steps to complete the warm-up:
 1. Choose one partner to be the *gesturer* and one partner to be the *reader*.
