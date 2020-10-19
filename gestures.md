@@ -3,9 +3,7 @@
 ## Recognition Warm-up
 In this exercise, you will use hand gestures to transmit a binary string. For this exercise, you will use clockwise and anticlockwise circles to represent the bits 0 and 1 respectively, using a closed fist as a separator. For example, in the gif below, the participant is gesturing a clockwise circle, then an anticlockwise circle, then a clockwise circle indicating the binary string "010".
 
-<img src="images/binary_gesture_example.gif" width="300">
-
-<img src="images/binary_gestures.png" width="300">
+<img src="images/binary_gesture_example.gif" width="300"> <img src="images/binary_gestures.png" width="300">
 
 Please follow these steps to complete the warm-up:
 1. Choose one partner to be the *gesturer* and one partner to be the *reader*.
@@ -20,4 +18,4 @@ Please follow these steps to complete the warm-up:
   * Alternately, you can use [this tool](http://www.unit-conversion.info/texttools/levenshtein-distance/#data) to calculate the [Levenshtein distance](https://www.wikiwand.com/en/Levenshtein_distance) between the two strings and divide that by 16.
 
 ## Gesture Design
-Imagine that you are on the design team for a new digital assistant device. Your boss wants users to be able to have the assistant perform ten common tasks by performing a hand gesture to the camera. Collaboratively with your partner, design the ten hand gestures to be used for the system.
+Imagine that you are on the design team for a new digital assistant device. Your boss wants users to be able to have the assistant perform ten common tasks by performing a hand gesture to the camera. Collaboratively with your partner, design the ten hand gestures to be used for the system. Your primary goal for these
