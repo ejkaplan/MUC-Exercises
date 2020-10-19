@@ -18,4 +18,4 @@ Please follow these steps to complete the warm-up:
   * Alternately, you can use [this tool](http://www.unit-conversion.info/texttools/levenshtein-distance/#data) to calculate the [Levenshtein distance](https://www.wikiwand.com/en/Levenshtein_distance) between the two strings and divide that by 16.
 
 ## Gesture Design
-Imagine that you are on the design team for a new digital assistant device. Your boss wants users to be able to have the assistant perform ten common tasks by performing a hand gesture to the camera. Collaboratively with your partner, design the ten hand gestures to be used for the system. Your primary goal for these
+Imagine that you are on the design team for a new digital assistant device. Your boss wants users to be able to have the assistant perform ten common tasks by performing a hand gesture to the camera. Collaboratively with your partner, design the ten hand gestures to be used for the system. Your primary goal for these exercises 
