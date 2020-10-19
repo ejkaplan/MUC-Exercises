@@ -5,7 +5,7 @@ In this exercise, you will use hand gestures to transmit a binary string. For th
 
 ![Demonstration of the binary string 010](images/binary_gesture_example.gif)
 
-![Diagram of the binary gestures](images/binary_gestures.png)
+![Diagram of the binary gestures](images/binary_gestures.png | width=100)
 
 Please follow these steps to complete the warm-up:
 1. Choose one partner to be the *gesturer* and one partner to be the *reader*.
