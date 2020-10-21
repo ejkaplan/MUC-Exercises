@@ -16,15 +16,20 @@ Please follow these steps to complete the warm-up:
 5. *Reader*, watch the gesturer and write down the sequence of 0's and 1's. Do not indicate to the *gesturer* what you think they were trying to transmit, nor tell them when you are ready for the next gesture. Just take down the sequence as they sign it as best as you can.
 6. Now, compare the sequence that the reader recognized with the binary string that the gesturer was trying to transmit. Calculate your [error rate](https://www.wikiwand.com/en/Word_error_rate) by the number of substitutions + insertions + deletions needed to get from the recognized string to the actual string, and divide by the length of the original string. (Which in this case is 16).
     * Alternately, you can use [this tool](http://www.unit-conversion.info/texttools/levenshtein-distance/#data) to calculate the [Levenshtein distance](https://www.wikiwand.com/en/Levenshtein_distance) between the two strings and divide that by 16.
+7. Repeat this process, with the participants swapping roles.
 
 ## Gesture Design
-Imagine that you are on the design team for a new digital assistant device. Your boss wants users to be able to have the assistant perform ten common tasks by performing a hand gesture to the camera. Collaboratively with your partner, design the ten hand gestures to be used for the system. Your primary goal for these exercises is to minimize recognition errors. Draw ten boxes for each of the numbers 0-9, and draw an arrow describing the hand movement as in the diagram above. Your gestures may only incorporate the movement of the user's hand - hand shape, movement of other limbs, facial expressions, etc. may not be part of your encoding.
+Imagine that you are on the design team for a new digital assistant device. Your boss wants users to be able to have the assistant perform ten common tasks by performing a hand gesture to the camera.
+
+Collaboratively with your partner, design the ten hand gestures to be used for the system. Your primary goal for these exercises is to minimize recognition errors. Draw ten boxes for each of the numbers 0-9, and draw an arrow describing the hand movement as in the diagram above. Your gestures may only incorporate the movement of the user's hand - movement of other limbs, facial expressions, etc. may not be part of your encoding. You do not need to use the closed fist to indicate a break between gestures, but you should think about how a user will indicate a transition between gestures, especially if they need to use the same gesture twice in a row.
 
 Once you have designed your ten gestures, repeat the process from the warm-up, but have your random string use the allowed characters "0123456789".
 
 If you have time, try making revisions to your set of gestures and re-testing to see if your changes decreased your error rate.
 
-## Follow-up Questions
+## Potential Follow-up/Qualtrics Questions
+* What was your error rate with two symbols?
+* What was your error rate with ten symbols?
 * In this exercise, we were only trying to make a gestural system that is easy to recognize. What other usability considerations would you have to make if you were intending to roll this out with average users?
 * How would you design a study to evaluate a user's ability to learn and utilize your gesture system?
 * From a user's perspective, what advantages and disadvantages does your system have when compared with the PathSync system from the reading?
