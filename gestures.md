@@ -27,9 +27,8 @@ Once you have designed your ten gestures, repeat the process from the warm-up, b
 
 If you have time, try making revisions to your set of gestures and re-testing to see if your changes decreased your error rate.
 
-## Potential Follow-up/Qualtrics Questions
+## Follow-up/Qualtrics Questions
 * What was your error rate with two symbols?
 * What was your error rate with ten symbols?
-* In this exercise, we were only trying to make a gestural system that is easy to recognize. What other usability considerations would you have to make if you were intending to roll this out with average users?
-* How would you design a study to evaluate a user's ability to learn and utilize your gesture system?
-* From a user's perspective, what advantages and disadvantages does your system have when compared with the PathSync system from the reading?
+* Choose two of the gestural-interface design tips that Thad presented in the previous lecture, and evaluate how your design succeeds or fails to live up to that advice.
+* Briefly describe how you would set up a study to evaluate a user's ability to learn and utilize the set of command gestures that you invented. Be sure to indicate what you expect you would learn from the study and justify why the study would yield that information.
