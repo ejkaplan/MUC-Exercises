@@ -32,3 +32,5 @@ If you have time, try making revisions to your set of gestures and re-testing to
 * How accurate were you in entering the given **ten** symbols?
 * As we discussed in the previous lectures, Don Norman emphasized 7 design principles (discoverability, feedback, conceptual model, affordance, signifier, mapping, and constraints) for interface design.  Please choose two of the design principles and evaluate whether the gesture interface would succeed or fail.
 * Please briefly describe how you would design a study to evaluate the usability and learnability of the command gestures that you invented. Be sure to indicate what you expect you would learn from the study and justify why the study would yield that information.
+
+Please take a photo of your final gesture design and email it to kaplan.eliotj@gmail.com. Thank you!
