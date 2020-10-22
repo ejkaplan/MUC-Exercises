@@ -14,8 +14,8 @@ Please follow these steps to complete the warm-up:
     * Press "Generate"
 4. *Gesturer*, silently use video chat to transmit your string to the reader. Be sure to use a closed fist to separate one bit from another.
 5. *Reader*, watch the gesturer and write down the sequence of 0's and 1's. Do not indicate to the *gesturer* what you think they were trying to transmit, nor tell them when you are ready for the next gesture. Just take down the sequence as they sign it as best as you can.
-6. Now, compare the sequence that the reader recognized with the binary string that the gesturer was trying to transmit. Calculate your [error rate](https://www.wikiwand.com/en/Word_error_rate) by the number of substitutions + insertions + deletions needed to get from the recognized string to the actual string, and divide by the length of the original string. (Which in this case is 16).
-    * Alternately, you can use [this tool](http://www.unit-conversion.info/texttools/levenshtein-distance/#data) to calculate the [Levenshtein distance](https://www.wikiwand.com/en/Levenshtein_distance) between the two strings and divide that by 16.
+6. Now, compare the sequence that the reader recognized with the binary string that the gesturer was trying to transmit. Calculate your accuracy by (N - D - S - I) / N * 100%, where N is number of symbols (16), D is the number of deletions, S is the number of substitutions, and I is the number of insertions needed to get from the string received to the intended string.
+    * Alternately, you can use [this tool](http://www.unit-conversion.info/texttools/levenshtein-distance/#data) to calculate the [Levenshtein distance](https://www.wikiwand.com/en/Levenshtein_distance) between the two strings, which will give you (D + S + I).
 7. Repeat this process, with the participants swapping roles.
 
 ## Gesture Design
@@ -27,8 +27,8 @@ Once you have designed your ten gestures, repeat the process from the warm-up, b
 
 If you have time, try making revisions to your set of gestures and re-testing to see if your changes decreased your error rate.
 
-## Follow-up/Qualtrics Questions
-* What was your error rate with two symbols?
-* What was your error rate with ten symbols?
-* Choose two of the gestural-interface design tips that Thad presented in the previous lecture, and evaluate how your design succeeds or fails to live up to that advice.
-* Briefly describe how you would set up a study to evaluate a user's ability to learn and utilize the set of command gestures that you invented. Be sure to indicate what you expect you would learn from the study and justify why the study would yield that information.
+## Qualtrics Questions
+* How accurate were you in entering the given **two** symbols?
+* How accurate were you in entering the given **ten** symbols?
+* As we discussed in the previous lectures, Don Norman emphasized 7 design principles (discoverability, feedback, conceptual model, affordance, signifier, mapping, and constraints) for interface design.  Please choose two of the design principles and evaluate whether the gesture interface would succeed or fail.
+* Please briefly describe how you would design a study to evaluate the usability and learnability of the command gestures that you invented. Be sure to indicate what you expect you would learn from the study and justify why the study would yield that information.
