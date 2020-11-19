@@ -63,13 +63,15 @@ Once you're done, your screen should look something like the following screensho
 It's usually quite accurate, but keep in mind that the teachable machine is very dependent on conditions staying relatively similar. If you move significantly closer or farther away from your webcam or change shirts, the model will likely stop working, and you'll have to retrain.
 
 ### Sign Language Activity
-Now you're going to try and get the teachable machine to understand sign language numbers.
+Imagine you've been given the task of making a gestural interface that interprets sign language letters as commands. You will be using teachable machine to make a prototype. Imagine that in order to input the appropriate command, the system must recognize the user holding the symbol for two seconds.
+
 <img src="https://www.startasl.com/wp-content/uploads/asl-alphabet_wallpaper_1920x1080.png" width="500">
+
 1. Start a new [Teachable Machine Image Training](https://teachablemachine.withgoogle.com/train/image) project.
 2. Make 4 classes named "Neutral", "A", "B", and "C".
-3. Train each of the four classes in the same way as in the learning exercise. For the "neutral" class, you want it to learn what it looks like when you are not signing. For "A", "B", and "C" you want it to learn the signs for those three letters.
-4. Train the model, and test it out. Try and get it to correctly identify each of the 4 classes. It is possible that
-5. By watching the percentages in the test window and moving your hands around, it is likely that you were able to get it to correctly identify all three, but there was likely at least one class that was most often identified wrongly. Modify the system to more easily identify this sign. This can include changing the environment that your webcam is looking at, changing the symbol itself, or some other modification. (You will almost certainly have to retrain your model.)
+3. Train each of the four classes in the same way as in the learning exercise. For the "neutral" class, make sure that it gets a variety of images of you not signing. For the A, B, and C classes, make sure that it gets plenty of images of you making the signs from different angles and with the hand in different positions on the screen.
+4. Train the model, and test it out. Try and get it to correctly identify each of the 4 classes. You will likely have to watch the percentages in the test window and maneuver your hand until it recognizes the sign.
+5. Modify the system to improve recognition. Remember that the goal is for the user to be able to get the recognizer to identify the correct sign for 2 seconds with a minimum of effort. You can modify what the camera can see, the environment, or the signs themselves. Retrain the model and evaluate your success.
 
 ### Qualtrics Questions
 * What did you change about the system to increase ease of identification, and how do you think that this change would affect usability for a native sign language speaker?
