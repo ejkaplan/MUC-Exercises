@@ -34,8 +34,12 @@ Imagine that you are on the design team for a new digital assistant device. Your
 6. *Gesturer*, silently use video chat to transmit your string to the reader. Be sure to use a closed fist to separate one bit from another.
 7. *Reader*, watch the gesturer and write down the sequence of 0's and 1's. Do not indicate to the *gesturer* what you think they were trying to transmit, nor tell them when you are ready for the next gesture. Just take down the sequence as they sign it as best as you can.
 8. Now, compare the sequence that the reader recognized with the binary string that the gesturer was trying to transmit. Calculate your accuracy by 100% * (N - D - S - I) / N, where N is number of symbols (16), D is the number of deletions, S is the number of substitutions, and I is the number of insertions needed to get from the string received to the intended string.
-    * Alternately, you can use [this tool](http://www.unit-conversion.info/texttools/levenshtein-distance/#data) to calculate the [Levenshtein distance](https://www.wikiwand.com/en/Levenshtein_distance) between the two strings, which will give you L = (D + S + I). So you can calculate the accuracy as 100% * (N - L) / N * 100%.
+    * Alternately, you can use [this tool](http://www.unit-conversion.info/texttools/levenshtein-distance/#data) to calculate the [Levenshtein distance](https://www.wikiwand.com/en/Levenshtein_distance) between the two strings, which will give you L = (D + S + I). So you can calculate the accuracy as 100% * (N - L) / N.
 9. Repeat steps 4-8 with the roles reversed.
+
+### If you have extra time...
+1. Identify the most confused symbols and revise and re-test your design to make those symbols more easily distinguishable.
+2. There has been a sudden leap forward in computer vision, and your system is now capable of tracking two distinct points in space. This can either be the tips of two fingers on the same hand (allowing the computer to identify the rotation of the hand) or the tips of two fingers on different hands (allowing gestures that involve the motion of both hands.) Design an improved gesture system that takes advantage of this new capability.
 
 ### Qualtrics Questions
 * How accurate were you in entering the given **two** symbols?
@@ -51,7 +55,7 @@ First, you'll need to learn to use Teachable Machine. You will start by teaching
 
 1. Go to the [Teachable Machine Image Training](https://teachablemachine.withgoogle.com/train/image) page.
 2. You'll see that by default it populates the model with two classes. Rename the classes to "Neutral" and "Hand Raised".
-3. Press the "webcam" button in the "Neutral" class to use your webcam to add image samples. Then, maintain a neutral pose and hold the "hold to record" button to record images of yourself not raising your hand. Be sure to move around a bit to give it an idea of multiple different poses you might take while not raising your hand. You'll want to take at least 100 images.
+3. Press the "webcam" button in the "Neutral" class to use your webcam to add image samples. Then, maintain a neutral pose and hold the "hold to record" button to record images of yourself not raising your hand. Be sure to move around a bit to give it an idea of multiple different poses you might take while not raising your hand. You'll want to take at least 100 images. (Just click and hold the camera button, and it'll take those hundred images in a few seconds.)
 4. Repeat step 3 in the "Hand Raised" class, but use the webcam to create images of you with your hand raised.
 5. In the "Training" bubble, press "Train Model". Don't worry about any of the advanced settings. Wait until it's done training.
 6. When it's done training, it should automatically start previewing the model. Under "output" you can see its guess as to the probability that you are or are not raising your hand.
