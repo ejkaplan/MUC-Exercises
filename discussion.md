@@ -22,8 +22,6 @@ By the end of the semester, students will:
 - Have had exposure to multiple applications of MUC beyond a single type of device.
 
 <br>
-============================================================================
-
 
 ## Instructions
 Before proceeding, students should be split into groups of three or four. Each group will be assigned a ubiquitous computing problem to “solve” by creating a device. Problem prompts should be relatively broad to allow students to brainstorm potential existing problems and how to solve them. With each learning module, students will iterate on their solution by incorporating information about privacy, testing, gestures, and more. 
@@ -37,7 +35,6 @@ Before proceeding, students should be split into groups of three or four. Each g
 - Create a device to better support business communication across a large company.
 
 <br>
-============================================================================
 
 ## Discussion Topics (~15min deliberations)
 
