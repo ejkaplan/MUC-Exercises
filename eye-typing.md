@@ -1,6 +1,6 @@
-# Eye Typing In-Class Exercise
+# Eye Typing In-Class Exercise (~40 minutes)
 
-## Activity 1: Warm Up
+## Activity 1: Warm Up (~15 minutes)
 
 1. View the image listed below. (When completing the eye-typing/ guessing, enlarge the keyboards so that they take up the entire size of the screen.)
 <img src="images/arel.JPG" width="500">
@@ -20,7 +20,7 @@
 1. What was your wpm?
 2. What was your accuracy rate?
 
-## Activity 2: Fastest Saccades
+## Activity 2: Fastest Saccades (~5 minutes)
 
 1. Open the link to the virtual clock
     https://www.online-stopwatch.com/large-online-clock/
@@ -33,7 +33,7 @@
 2. What was your level of fatigue after the 10 seconds?
 3. Additional Comments:
 
-## Activity 3: Full QWERTY
+## Activity 3: Full QWERTY (~20 minutes)
 
 1. View the images below.  (When completing the eye-typing/ guessing, enlarge the keyboards so that they take up the entire size of the screen.)
 <img src="images/qwerty.png" width="500">
