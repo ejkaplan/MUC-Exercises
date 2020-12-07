@@ -45,5 +45,6 @@
 ### Qualtrics Questions
 1. What was your words per minute?
 2. What was your accuracy rate?
+3. Complete the NASA TLX.
 
 
