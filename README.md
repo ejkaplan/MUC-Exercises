@@ -1,7 +1,7 @@
 # MUC Exercises
  
 ## [Semester-Long Discussion and Design Exercise](discussion.md)
-Students have a series of pen-and-paper design discussions over the course of the semester.
+Students have a series of pen-and-paper design discussions and class presentation over the course of the semester based on topics introduced in flipped classroom lectures and assigned readings. 
 
 ## [Eye-Typing](eye-typing.md)
 Students experiment with the usability of eye-based interaction through a wizard-of-oz style test.
