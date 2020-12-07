@@ -1,2 +1,13 @@
 # MUC Exercises
  
+## [Semester-Long Discussion and Design Exercise](discussion.md)
+Students have a series of pen-and-paper design discussions over the course of the semester.
+
+## [Eye-Typing](eye-typing.md)
+Students experiment with the usability of eye-based interaction through a wizard-of-oz style test.
+
+## [Gestural Interfaces](gestures.md)
+Students design and test gestural interfaces. Includes two variations on the theme - one version where the students design their own gestures and test them with a partner in a wizard-of-oz test, and one where students use Google's Teachable Machine to implement a partial sign language recognizer.
+
+## [Head Mounted Displays](hmd.md)
+Students experiment with optimal placement and eyebox for a head mounted display system.
