@@ -81,7 +81,5 @@ Before proceeding, students should be split into groups of three or four. Each g
 
 <br>
 
-============================================================================
-
 ## Deliverable (~5min presentation /  group)
 After discussing each topic, discussion groups are expected to create a PowerPoint slide detailing their updates/additions to their device design and present their deliberations and justifications to the whole class. Students will be evaluated on their ability to apply flipped classroom lectures and readings to their design iterations.
