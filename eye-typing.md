@@ -3,7 +3,7 @@
 ## Activity 1: Warm Up
 
 1. View the image listed below.
-
+<img src="images/arel.jpg" width="500">
 2. Turn on your camera
 3. Designate one student as “typist” and the other as “guesser.”  These roles will switch after the first round.
 4. Perform a “calibration” to see what it looks like when each partner looks at the letters.
@@ -45,7 +45,4 @@
 1. What was your words per minute?
 2. What was your accuracy rate?
 
-<img src="images/post-training.png" width="500">
-
-It's usually quite accurate, but keep in mind that the teachable machine is very dependent on conditions staying relatively similar. If you move significantly closer or farther away from your webcam or change shirts, the model will likely stop working, and you'll have to retrain.
 
