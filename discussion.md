@@ -15,7 +15,7 @@ In participating in discussion-style exercises, students will:
 - Create a presentation slide (tactile learning), and
 - Share their ideas with the class (feedback)
 
-### By the end of the semester, students will:
+By the end of the semester, students will:
 - Have an idea crafted by course learnings. 
 - Have used critical thinking to creatively apply abstract concepts to real-world applications.
 - Have articulated their ideas to the class through presentation-style discussions.
