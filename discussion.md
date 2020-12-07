@@ -36,7 +36,7 @@ Before proceeding, students should be split into groups of three or four. Each g
 
 <br>
 
-## Discussion Topics (~15min deliberations)
+## Discussion Topics (~15min deliberations in groups)
 
 ### Topic 1: Design Ideation
 - **Purpose:** Expand the creativity of students by encouraging them to use limited resources to visualize complex systems.
