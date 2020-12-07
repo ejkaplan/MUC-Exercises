@@ -7,11 +7,11 @@
 3. Designate one student as “typist” and the other as “guesser.”  These roles will switch after the first round.
 4. Perform a “calibration” to see what it looks like when each partner looks at the letters.
 5. One student will use their eyes to “type” using the letters on the document and the other will say what letter they think the typist is looking at it.  If the guesser guesses   the wrong letter, the typist should blink (an exaggerated blink so it’s obvious).  The guesser should indicate in their notes that they missed the letter.  If the guesser       guesses correctly, the typist should move eyes to the next letter.  When the last letter is reached, the typist should tell the guesser that the word is finished, close         their eyes, and start the process over again.  This should be done for 1 minute, with the guesser keeping track of how many words they were able to guess correctly in that       minute and how many times they incorrectly guessed a letter.  The guesser should calculate their accuracy using this equation:
-     *Accuracy =  {N - D - S - I } / N * 100%
-     N: Number of symbols
-     D: Deletions
-     S: Substitutions
-     I: Insertions
+     #### *Accuracy =  {N - D - S - I } / N * 100%
+     #### N: Number of symbols
+     #### D: Deletions
+     #### S: Substitutions
+     #### I: Insertions
 6. Swap roles and repeat
 7. Submit words per minute and accuracy score in qualtrics form
 
