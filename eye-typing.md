@@ -2,7 +2,7 @@
 
 ## Activity 1: Warm Up
 
-1. View the image listed below.
+1. View the image listed below. (When completing the eye-typing/ guessing, enlarge the keyboards so that they take up the entire size of the screen.)
 <img src="images/arel.JPG" width="500">
 2. Turn on your camera
 3. Designate one student as “typist” and the other as “guesser.”  These roles will switch after the first round.
@@ -35,8 +35,9 @@
 
 ## Activity 3: Full QWERTY
 
-1. Open the QWERTY document, an image of a keyboard.
-    https://en.wikipedia.org/wiki/QWERTY#/media/File:KB_United_States.svg
+1. View the images below.  (When completing the eye-typing/ guessing, enlarge the keyboards so that they take up the entire size of the screen.)
+<img src="images/qwerty.png" width="500">
+<img src="images/qwerty_flipped.png" width="500">
 2. Decide who will be the typist and who will be the guesser.  Roles will switch at the end of the round.  
 3. The typist will “type” words with their eyes using the keyboard opened up on their screen.  The guesser will guess which word the typist is looking at, and much like in Activity 1, if the guesser guesses correctly the typist moves to the next letter, and if they guess incorrectly, the typist should blink and the guesser should tally this and guess again.  At the end of one minute the guess should calculate their words per minute and their accuracy and indicate it in the qualtrics.  Also, complete the NASA TLX form on the qualtrics.  
 4. Swap roles and repeat.
