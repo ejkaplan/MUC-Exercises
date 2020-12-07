@@ -81,5 +81,15 @@ Before proceeding, students should be split into groups of three or four. Each g
 
 <br>
 
+### Topic 6: Context
+- **Purpose:** Encourage students to consider how sensors can enhance the application of their device and introduce new features.
+- **Prompt:** Think about how a user's context (location, weather, activity, etc.) may allow your device to provide better service to its problem. Provide at least one example of a potential feature context can provide.
+
+<br>
+
+### Topic 7: Final Device Presentation
+- **Purpose:** Revisit topics applied to device problem to solidify learned concepts and communicate these ideas with the class.
+- **Prompt:** Create a slide summarizing your assigned problem and the device solution you've created this semester. Feel free to add new features in the context of the course topics or remove features that may be superfluous or unfocused. Be prepared to justify your decisions.
+
 ## Deliverable (~5min presentation /  group)
 After discussing each topic, discussion groups are expected to create a PowerPoint slide detailing their updates/additions to their device design and present their deliberations and justifications to the whole class. Students will be evaluated on their ability to apply flipped classroom lectures and readings to their design iterations.
