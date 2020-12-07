@@ -11,7 +11,7 @@
 
 4. Perform a “calibration” to see what it looks like when each partner looks at the letters.
 
-5. One student will use their eyes to “type” using the letters on the document and the other will say what letter they think the typist is looking at it.  If the guesser guesses   the wrong letter, the typist should blink (an exaggerated blink so it’s obvious).  The guesser should indicate in their notes that they missed the letter.  The guesser should continue guessing until they guess correctly.  If the guesser guesses correctly, the typist should move eyes to the next letter.  When the last letter is reached, the typist should tell the guesser that the word is finished, and start the process over again.  This should be done for 1 minute, with the guesser keeping track of how many words they were able to guess correctly in that minute and how many times they incorrectly guessed a letter.  The guesser should calculate their accuracy using this equation:
+5. One student will use their eyes to “type” using the letters on the document, indicating when they start with an exaggerated blink, and the other will say what letter they think the typist is looking at it.  If the guesser guesses   the wrong letter, the typist should blink (an exaggerated blink so it’s obvious).  The guesser should indicate in their notes that they missed the letter.  The guesser should continue guessing until they guess correctly.  If the guesser guesses correctly, the typist should move eyes to the next letter.  When the last letter is reached, the typist should tell the guesser that the word is finished, and start the process over again.  This should be done for 1 minute, with the guesser keeping track of how many words they were able to guess correctly in that minute and how many times they incorrectly guessed a letter.  The guesser should calculate their accuracy using this equation:
      #### *Accuracy =  {N - D - S - I } / N * 100%
      #### N: Number of symbols
      #### D: Deletions
@@ -43,7 +43,7 @@
 <img src="images/qwerty.png" width="500">
 <img src="images/qwerty_flipped.png" width="500">
 2. Decide who will be the typist and who will be the guesser.  Roles will switch at the end of the round.  
-3. The typist will “type” words with their eyes using the keyboard opened up on their screen.  The guesser will guess which word the typist is looking at using the flipped qwerty keyboard to make it easier, and much like in Activity 1, if the guesser guesses correctly the typist moves to the next letter, and if they guess incorrectly, the typist should blink and the guesser should tally this and guess again.  At the end of two minutes the guesser should calculate their words per minute and their accuracy and indicate it in the qualtrics.  Also, complete the NASA TLX form on the qualtrics.  
+3. The typist will “type” words with their eyes using the keyboard opened up on their screen, indicating when they start with an exaggerated blink.  The guesser will guess which word the typist is looking at using the flipped qwerty keyboard to make it easier, and much like in Activity 1, if the guesser guesses correctly the typist moves to the next letter, and if they guess incorrectly, the typist should blink exaggeratedly and the guesser should tally this and guess again.  At the end of two minutes the guesser should calculate their words per minute and their accuracy and indicate it in the qualtrics.  Also, complete the NASA TLX form on the qualtrics.  
 4. Swap roles and repeat.
 
 ### Qualtrics Questions
