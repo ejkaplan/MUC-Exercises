@@ -1,8 +1,8 @@
 # Gestures In-Class Exercise
 
-## Motion Gestures Activity
+## Motion Gestures Activity (~1 hour)
 
-### Recognition Warm-up
+### Recognition Warm-up (~10-20 minutes)
 In this exercise, you will use hand gestures to transmit a binary string. For this exercise, you will use clockwise and anticlockwise circles to represent the bits 0 and 1 respectively, using a closed fist as a separator. For example, in the gif below, the participant is gesturing a clockwise circle, then an anticlockwise circle, then a clockwise circle indicating the binary string "010". Note that the number of times that the participant circles their finger is irrelevant - the separator fist gesture indicates the end of a single character.
 
 <img src="images/binary_gesture_example.gif" width="300"> <img src="images/binary_gestures.png" width="300">
@@ -20,7 +20,7 @@ Please follow these steps to complete the warm-up:
     * Alternately, you can use [this tool](http://www.unit-conversion.info/texttools/levenshtein-distance/#data) to calculate the [Levenshtein distance](https://www.wikiwand.com/en/Levenshtein_distance) between the two strings, which will give you L = (D + S + I). So you can calculate the accuracy as 100% * (N - L) / N * 100%.
 7. Repeat this process, with the participants swapping roles.
 
-### Gesture Design
+### Gesture Design (~30-45 minutes)
 Imagine that you are on the design team for a new digital assistant device. Your boss wants users to be able to have the assistant perform ten common tasks by performing a hand gesture to the camera. **The camera for this digital assistant can only perform one-point tracking - that is, it can detect the position on the screen of the tip of one index finger, and that's it.** You may still use a separator gesture like a closed fist.
 
 1. Both partners should draw ten squares on a piece of paper and label each of them with the digits 0 through 9.
@@ -47,10 +47,10 @@ Imagine that you are on the design team for a new digital assistant device. Your
 * As we discussed in the previous lectures, Don Norman emphasized 7 design principles (discoverability, feedback, conceptual model, affordance, signifier, mapping, and constraints) for interface design.  Please choose two of the design principles and evaluate whether the gesture interface would succeed or fail.
 * Please briefly describe how you would design a study to evaluate the usability and learnability of the command gestures that you invented. Be sure to indicate what you expect you would learn from the study and justify why the study would yield that information.
 
-## Sign Language Training Activity
+## Sign Language Training Activity (~40 minutes)
 Google's teachable machine is a website where you can quickly perform supervised machine learning to identify images, sounds, or poses from the browser. For this project, you will attempt to teach it sign language.
 
-### Learning Teachable Machine
+### Learning Teachable Machine (~10 minutes)
 First, you'll need to learn to use Teachable Machine. You will start by teaching it to identify whether your hand is raised.
 
 1. Go to the [Teachable Machine Image Training](https://teachablemachine.withgoogle.com/train/image) page.
@@ -66,7 +66,7 @@ Once you're done, your screen should look something like the following screensho
 
 It's usually quite accurate, but keep in mind that the teachable machine is very dependent on conditions staying relatively similar. If you move significantly closer or farther away from your webcam or change shirts, the model will likely stop working, and you'll have to retrain.
 
-### Sign Language Activity
+### Sign Language Activity (~20-30 minutes)
 Imagine you've been given the task of making a gestural interface that interprets sign language letters as commands. You will be using teachable machine to make a prototype. Imagine that in order to input the appropriate command, the system must recognize the user holding the symbol for two seconds.
 
 <img src="https://www.startasl.com/wp-content/uploads/asl-alphabet_wallpaper_1920x1080.png" width="500">
