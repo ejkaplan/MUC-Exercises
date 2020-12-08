@@ -65,6 +65,6 @@
 
 2. What was your accuracy rate?
 
-3. Complete the NASA TLX.
+3. Complete the NASA TLX. https://humansystems.arc.nasa.gov/groups/tlx/downloads/TLXScale.pdf
 
 
