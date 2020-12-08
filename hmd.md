@@ -10,7 +10,7 @@
 	- Scissors
 	- Rubbing alcohol (soap and warm water can work)
 	- A partner (in person or online)
-<img src="images/Display-Location-Ex.jpg" width="500">
+<img src="images/Display-Loaction-Ex.jpg" width="500">
 
 2. To begin the exercise student will cut a length of straw to about 2 inches. They will then glue it on the safety glasses where they think a head worn display should located.
 
